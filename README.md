@@ -1,6 +1,3 @@
-## Notice
-This software is now under archive mode, it is stable but unmaintained.
-
 # LatencyTester
 Is a simple tool that can be used for measuring your latency.
 <br>
